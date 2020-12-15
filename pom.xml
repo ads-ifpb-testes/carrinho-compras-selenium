@@ -94,6 +94,13 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.4.0</version>
+            <scope>test</scope>
+        </dependency>
+
         <!-- Optional, for bootstrap -->
         <dependency>
             <groupId>org.webjars</groupId>
